@@ -1,3 +1,5 @@
-# Tic_Tac_Toe
+# Usage
+1. `pip install -r requirements.txt`
+2. `python TicTacToe.py`
 
-SVG Files are not needed to run the App.
+Note:- SVG Files are not needed to run the App.
